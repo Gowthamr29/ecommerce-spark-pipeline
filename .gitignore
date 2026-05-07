@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+
+# Virtual environment
+sparke_venv/
+
+# Logs
+logs/
+
+# Output data
+output/
+test_output/
+
+# Hadoop & Spark (very big - don't upload)
+hadoop-3.3.6/
+hadoop-3.4.1/
+spark-3.5.8-bin-hadoop3/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+oracleJdk-26/
