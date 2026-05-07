@@ -39,4 +39,12 @@ Used Pandas fallback to safely write output.
 ## 🧠 Learnings
 - Transformations vs Actions  
 - Joins & Shuffle  
-- Window Functions  
+- Window Functions
+
+- ## 📸 Screenshots
+
+### Spark UI
+![Spark UI](screenshots/spark_ui.png)
+
+### Output Files
+![Output](screenshots/output.png)
